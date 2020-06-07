@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/View_pager2.iml" filepath="$PROJECT_DIR$/View_pager2.iml" group="View_pager2" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="View_pager2/app" />
+    </modules>
+  </component>
+</project>
